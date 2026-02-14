@@ -1,6 +1,18 @@
 # Weather-Application-Using-Public-API
 # Weather Application (Task 1)
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : VIJAY TIWARI
+
+*INTERN ID* : CTIS3387
+
+*DOMAIN* : Full Stack Web Development
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : Neela Santhosh Kumar  
+
 ## Description
 This project is a responsive weather application that fetches real-time weather data from a public API and displays it dynamically based on user input.
 
