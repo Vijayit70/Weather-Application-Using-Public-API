@@ -1,4 +1,3 @@
-# Weather-Application-Using-Public-API
 # Weather Application (Task 1)
 
 *COMPANY* : CODTECH IT SOLUTIONS
@@ -39,6 +38,10 @@ This project is a responsive weather application that fetches real-time weather 
 
 ## Output
 The app dynamically displays live weather details for the entered city.
+
+<img width="852" height="900" alt="task1d" src="https://github.com/user-attachments/assets/c79e97c8-1148-4e1e-9a8b-cadbd8499291" />
+<img width="1920" height="1080" alt="task1" src="https://github.com/user-attachments/assets/ae331d38-72df-4784-b05a-d59871fa3627" />
+
 
 ## Author
 Vijay Tiwari
